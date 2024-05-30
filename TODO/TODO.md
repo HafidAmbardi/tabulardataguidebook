@@ -1,3 +1,7 @@
+# Principles
+
+- Missing Values (Nabilla)
+
 # EDA
 
 - Implement Chi Squared Goodness of Fit Test
@@ -10,20 +14,22 @@
 
 Optional:
 
-- Swarm plot
-- lmplot
-- Violin plot
-- Hue for Histogram Plot
-- New Multivariate EDA File
+- Swarm plot (Joseph)
+- Violin plot (Joseph)
+- Hue for Histogram Plot (Joseph)
+- New Multivariate EDA File (Nabilla)
 - Entropy (?)
 
 # Pre-Processing
 
-- Implement K-Fold Target Encoding
+- Deleting mean
+- Ordinal & One-Hot Encoding (Hafid)
+- Implement K-Fold Target Encoding (Hafid)
+- Pipelines (Hafid)
 
-# Feature Selection:
+# Feature Selection
 
-- create automated feature selection
+- create automated feature selection (Joseph)
 
 Valuable References:
 https://medium.com/@prabowoyogawicaksana/feature-selection-methods-af6335acd823
