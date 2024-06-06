@@ -25,7 +25,7 @@ Optional:
 - Deleting mean
 - Ordinal & One-Hot Encoding (Hafid)
 - Implement K-Fold Target Encoding (Hafid)
-- Pipelines (Hafid)
+- Separate and recombine numerical, categorical, string data. (Hafid)
 
 # Feature Selection
 
@@ -33,3 +33,9 @@ Optional:
 
 Valuable References:
 https://medium.com/@prabowoyogawicaksana/feature-selection-methods-af6335acd823
+
+# Data Types
+
+- Time series
+- Geolocation
+- Users
