@@ -26,7 +26,6 @@ Optional:
 - Ordinal & One-Hot Encoding (Hafid)
 - Implement K-Fold Target Encoding (Hafid)
 - Separate and recombine numerical, categorical, string data. (Hafid)
-- DFS Filtering
 
 # Feature Selection
 
@@ -40,3 +39,7 @@ https://medium.com/@prabowoyogawicaksana/feature-selection-methods-af6335acd823
 - Time series
 - Geolocation
 - Users
+
+# Feature Engineering
+
+- Implement everything in pipelines
