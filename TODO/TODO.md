@@ -43,3 +43,14 @@ https://medium.com/@prabowoyogawicaksana/feature-selection-methods-af6335acd823
 # Feature Engineering
 
 - Implement everything in pipelines
+
+# Model Evaluation
+
+- Confusion Matrix
+- ROC
+- Precision & Recall
+- Learning Curve
+- Calibration Curve
+- Ice Plot
+- Shap
+- Actual vs Predicted
