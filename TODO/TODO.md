@@ -26,6 +26,7 @@ Optional:
 - Ordinal & One-Hot Encoding (Hafid)
 - Implement K-Fold Target Encoding (Hafid)
 - Separate and recombine numerical, categorical, string data. (Hafid)
+- Pipeline visualizer
 
 # Feature Selection
 
