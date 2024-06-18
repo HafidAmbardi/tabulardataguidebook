@@ -27,6 +27,9 @@ Optional:
 - Implement K-Fold Target Encoding (Hafid)
 - Separate and recombine numerical, categorical, string data. (Hafid)
 - Pipeline visualizer
+- Handling Sparse Data (OneHotEncoding,etc)
+- Target Encoding into OrdinalEncoding
+- Mice Imputation
 
 # Feature Selection
 
