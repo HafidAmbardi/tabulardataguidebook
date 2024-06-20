@@ -23,9 +23,6 @@ Optional:
 # Pre-Processing
 
 - Deleting mean
-- Ordinal & One-Hot Encoding (Hafid)
-- Implement K-Fold Target Encoding (Hafid)
-- Separate and recombine numerical, categorical, string data. (Hafid)
 - Pipeline visualizer
 - Handling Sparse Data (OneHotEncoding,etc)
 - Target Encoding into OrdinalEncoding
